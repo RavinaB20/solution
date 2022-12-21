@@ -58,7 +58,10 @@ Applicants will be informed about final status of hiring for a particular positi
 * Robust,Reliable and Fast Database 
   * Maintainability and reliability of the system is kept very thoroughly as all the records kept in the database have the backups and system can restore if there is power loss.
 * 24x7 Availability
-* secure data
+* Secure data
+* Real time system
+  * Applicants and recruiters will receive real time updates regarding all actions in hiring process.
+
 * Account creation:
 
  Systems may require students to create accounts to access applications that store information and display profiles.
@@ -71,5 +74,5 @@ For example, a strong password might contain a certain number of characters and 
 
 * Account locking: 
 
-After a certain number of login attempts, a security system may lock an account to protect a user's information from potential hackers.
- To unlock their account, a user can typically call the company to verify their identity and set a new password.
+After a certain number of login attempts, a security system may lock an account to protect a user's information from potential hackers. To unlock their account, a user can typically call the company to verify their identity and set a new password.
+
